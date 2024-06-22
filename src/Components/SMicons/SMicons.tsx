@@ -8,10 +8,10 @@ import React from 'react'
 const sm = [
     {
         Icon:'https://www.svgrepo.com/show/520798/instagram.svg',
-        href:'https://www.instagram.com/Conceptuallb?igsh=MXFreTZkbGI5ejlteA%3D%3D&utm_source=qr'
+        href:'https://www.instagram.com/conceptual.wic/'
     },
     {Icon:'https://www.svgrepo.com/show/506628/whatsapp.svg',href:'https://wa.me/+96170657915'},
-    {Icon:'https://www.svgrepo.com/show/494202/facebook.svg',href:'https://www.facebook.com/Conceptuallb?mibextid=LQQJ4d'},
+    {Icon:'https://www.svgrepo.com/show/494202/facebook.svg',href:'https://www.facebook.com/profile.php?id=61558065357652'},
   
  ]
 const SMicons = ({sx,color}:{color?:string,sx?:any}) => {

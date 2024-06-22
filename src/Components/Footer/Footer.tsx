@@ -28,13 +28,7 @@ const Footer = () => (
           </Typography>
           <SMicons/>
 
-          {/* <ul className="site-footer__social-networks">
-          <li><a href="https://www.facebook.com/profile.php?id=100063581229923" rel="noreferrer" target='_blank'><i className="icon-facebook"></i></a></li>
-        <li><a href="#"><i className="icon-twitter"></i></a></li>
-          <li><a href="#"><i className="icon-linkedin"></i></a></li>
-          <li><a href={`${process.env.NEXT_PUBLIC_INSTA}`}rel="noreferrer" target='_blank' ><i className="icon-instagram"></i></a></li>
-          <li><a href="#"><i className="icon-youtube-play"></i></a></li>
-        </ul> */}
+        
         </div>
 
         <div className="site-footer__links ">
@@ -66,9 +60,6 @@ const Footer = () => (
             </h1>
             
               </li>
-            {/* <li><Link href="mailto:sales@thecraftroom-lb.com">sales@petstown.com</Link></li> */}
-            
-            {/* <li><a href="https://www.facebook.com/profile.php?id=100076163602459/" target="_blank" rel="noreferrer" >Facebook</a></li> */}
 
             <li><a href="https://www.instagram.com/conceptual.wic/" target="_blank" rel="noreferrer" >@conceptual.wic</a></li>
             <li><a href={`https://wa.me/${process.env.NEXT_PUBLIC_WA}`} rel="noreferrer" target='_blank' >+{process.env.NEXT_PUBLIC_WA}</a></li>
